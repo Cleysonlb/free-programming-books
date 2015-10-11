@@ -58,6 +58,11 @@
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
+### Gulp
+* [GulpJS - Um gole de otimização no seu workflow](http://blog.da2k.com.br/2015/01/24/gulpjs-um-gole-de-otimizacao-no-seu-workflow/)
+* [Gulp: O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+
+
 ### Haskell
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 

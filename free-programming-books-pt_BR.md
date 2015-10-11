@@ -7,6 +7,7 @@
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
 * [Grunt](#grunt)
+* [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
